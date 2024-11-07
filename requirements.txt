@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+uvicorn
+sqlalchemy
+colorama
+aiohttp==3.9.1
+faker==20.1.0
+rich==13.7.0
